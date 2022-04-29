@@ -1,0 +1,16 @@
+.column{
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    height: 200px;
+}
+#one{
+    background-color: aqua;
+}
+#two{
+    background-color: blue;
+}
+#three{
+    background-color: blueviolet;
+}
+
